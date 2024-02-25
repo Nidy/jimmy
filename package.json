@@ -1,0 +1,22 @@
+{
+  "name": "ai-helper-jimmy",
+  "version": "1.0.0",
+  "description": "A ai helper for web3 devs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nidy/jimmy.git"
+  },
+  "keywords": [
+    "ai-helper"
+  ],
+  "author": "jimmy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nidy/jimmy/issues"
+  },
+  "homepage": "https://github.com/Nidy/jimmy#readme"
+}
